@@ -8,3 +8,5 @@ This file contains my assignments
 [Assignment Week 5](https://github.com/Arjen012/Assignments/blob/master/Assignment_week_5.ipynb)
 
 [Assignment Week 6](https://github.com/Arjen012/Assignments/blob/master/assignment4.ipynb)
+
+[Assignment Week 8](https://github.com/Arjen012/Assignments/blob/master/assignment5.ipynb)
